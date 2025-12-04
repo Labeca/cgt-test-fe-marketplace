@@ -1,0 +1,242 @@
+[
+  {
+    "id": "001",
+    "image_path": "/a.jpg",
+    "title": "Ultra-Slim Laptop Pro",
+    "description": "Experience unparalleled performance and portability with the Ultra-Slim Laptop Pro. This cutting-edge device features a stunning **15-inch Retina display** that offers breathtaking color accuracy and razor-sharp detail, making it ideal for professional designers, video editors, and power users. Under the hood, it packs a latest-generation processor and a generous **16GB of high-speed RAM**, ensuring seamless multitasking and swift application loading, even when handling demanding software. The sleek, **aerospace-grade aluminum chassis** is not only durable but also incredibly lightweight, measuring less than a quarter of an inch thick and weighing under three pounds. It includes a multi-port adapter, an extended-life battery offering up to 14 hours of continuous use, and an advanced thermal system that keeps the device cool and quiet during peak performance. Furthermore, the integrated biometric security system provides peace of mind, safeguarding all your critical data with just a touch. This laptop is the perfect blend of style, power, and mobility for the modern professional who refuses to compromise.",
+    "price": 1299.99,
+    "metadata": {
+      "size": 2500,
+      "category": "Electronics",
+      "brand": "TechCorp"
+    }
+  },
+  {
+    "id": "002",
+    "image_path": "/b.jpg",
+    "title": "Organic Cotton T-Shirt",
+    "description": "Discover the ultimate blend of comfort and conscience with our Organic Cotton T-Shirt. This essential wardrobe piece is crafted from **100% GOTS-certified organic cotton**, ensuring it's free from harmful pesticides and chemical fertilizers, making it gentle on your skin and the environment. The fabric is **pre-shrunk and garment-dyed**, resulting in a beautifully soft texture and vibrant, long-lasting color that won't fade after washing. We've designed this tee with a **classic crew neck and a tailored, modern fit** that's comfortable without being baggy, making it suitable for layering or wearing on its own. The reinforced stitching at the collar and hems guarantees exceptional durability, allowing this shirt to stand up to daily wear and tear. It's the ideal staple for a casual weekend, a comfortable workout, or as a base layer for professional attire. By choosing this t-shirt, you're supporting sustainable farming practices and investing in a high-quality piece of apparel that feels as good to wear as it is for the planet. Available in a wide variety of earth tones and classic shades.",
+    "price": 24.50,
+    "metadata": {
+      "size": "L",
+      "category": "Apparel",
+      "material": "Cotton"
+    }
+  },
+  {
+    "id": "003",
+    "image_path": "/c.png",
+    "title": "The Silent Witness (Hardcover)",
+    "description": "Plunge into the gripping world of *The Silent Witness*, a highly anticipated mystery novel by bestselling author J.K. Thorne. This **hardcover edition** features an exclusive dust jacket design and archival-quality paper. The story follows Detective Amelia Hayes as she tackles her most perplexing case: the disappearance of a prominent city official, leaving behind only a single, cryptic note and a seemingly impossible set of circumstances. As Hayes navigates a web of political corruption, family secrets, and carefully constructed lies, she must race against the clock to uncover the truth before the trail goes cold permanently. Thorne masterfully builds suspense, using **multiple, unreliable narrators** and **unexpected plot twists** that will keep even the most seasoned mystery reader guessing. Critics have hailed it as a 'tour-de-force of psychological suspense,' comparing it favorably to classic literary thrillers. This book is an absolute must-read for fans of intense, character-driven mysteries and sophisticated narrative structures. Be prepared to lose yourself in its pages late into the night.",
+    "price": 18.99,
+    "metadata": {
+      "size": 550,
+      "category": "Books",
+      "author": "J.K. Thorne"
+    }
+  },
+  {
+    "id": "004",
+    "image_path": "/d.png",
+    "title": "Automatic Drip Coffee Maker",
+    "description": "Start your mornings the right way with our state-of-the-art Automatic Drip Coffee Maker. Designed for the discerning coffee enthusiast, this machine features a professional-grade **built-in conical burr grinder**, allowing you to grind your beans fresh just before brewing, which is the key to a superior cup of coffee. It boasts a generous **12-cup capacity** glass carafe and a **24-hour programmable timer**, so you can set it the night before and wake up to the perfect aroma of freshly brewed coffee. The stainless steel thermal plate keeps your coffee at the optimal serving temperature without scorching, while the precision showerhead ensures full saturation of the coffee grounds for optimal flavor extraction. Furthermore, the machine features a **self-cleaning function** and a removable filter basket for easy maintenance. Its elegant, brushed stainless steel finish adds a touch of modern sophistication to any kitchen countertop. Enjoy consistent, café-quality coffee at home every single day with minimal effort.",
+    "price": 75.00,
+    "metadata": {
+      "size": 8000,
+      "category": "Home Goods",
+      "capacity": "12-cup"
+    }
+  },
+  {
+    "id": "005",
+    "image_path": "/e.png",
+    "title": "Ergonomic Wireless Mouse",
+    "description": "Revolutionize your workflow with the Ergonomic Wireless Mouse, engineered for maximum comfort and high-precision tracking over long work sessions. Its unique, **sculpted shape** is designed to cradle your hand in a natural, relaxed position, significantly reducing wrist strain and the risk of repetitive stress injuries, making it ideal for graphic designers, programmers, and general office use. The mouse utilizes an advanced **optical sensor with adjustable DPI settings (up to 4000 DPI)**, ensuring pixel-perfect accuracy on virtually any surface, from glass to wood. Connectivity is seamless via a reliable **2.4 GHz USB receiver** or through **Bluetooth**, allowing you to connect to two separate devices simultaneously. It also features five fully programmable buttons, accessible via intuitive software, which can be customized for macros and shortcuts specific to your favorite applications. The rechargeable battery provides months of power on a single charge, and an intelligent sleep mode conserves energy when the mouse is inactive, ensuring it’s always ready when you need it.",
+    "price": 35.99,
+    "metadata": {
+      "size": 150,
+      "category": "Electronics",
+      "connection": "Bluetooth"
+    }
+  },
+  {
+    "id": "006",
+    "image_path": "/f.png",
+    "title": "Trail Runner Sneakers",
+    "description": "Conquer any terrain with the Trail Runner Sneakers, built specifically for the demands of off-road running and hiking. These shoes feature a rugged, multi-directional **Vibram outsole** with deep lugs that provide exceptional traction and grip on mud, loose gravel, and rocky paths, offering the stability you need for challenging trails. The upper is constructed from a **water-resistant, breathable mesh** that keeps your feet dry and comfortable while preventing overheating. Inside, the midsole uses **responsive foam technology** to deliver superior energy return and shock absorption, protecting your joints on impact without sacrificing ground feel. Designed with a wide toe box for natural foot splay and a secure lacing system, these sneakers ensure a perfect, locked-down fit. The protective toe cap shields your foot from roots and rocks, while reflective accents enhance visibility during low-light conditions. Whether you're training for a marathon or enjoying a scenic hike, these shoes provide the perfect blend of durability, comfort, and performance.",
+    "price": 89.95,
+    "metadata": {
+      "size": "US 10",
+      "category": "Apparel",
+      "color": "Black/Blue"
+    }
+  },
+  {
+    "id": "007",
+    "image_path": "/g.jpg",
+    "title": "Quick & Easy Meals Cookbook",
+    "description": "Simplify your weeknight cooking routine with the *Quick & Easy Meals Cookbook* by renowned food blogger Chef Lisa. This culinary treasure contains **over 100 delicious, fuss-free recipes** specifically designed to be prepared and served in **30 minutes or less**, making it indispensable for busy professionals and families. The recipes are categorized by protein and dietary needs, featuring everything from plant-based dinners to rapid-fire poultry dishes and quick seafood options. Each recipe comes with a clear, step-by-step instruction list, a full-color photograph, and a nutritional breakdown. Chef Lisa also includes valuable tips for **meal prepping**, maximizing pantry staples, and efficient kitchen organization to streamline the entire cooking process. Whether you are a novice cook or an experienced home chef looking to save time, this book offers practical, flavorful solutions to avoid the dinner-time slump. Say goodbye to takeout and hello to healthy, homemade meals every night of the week. It’s an essential addition to any kitchen shelf.",
+    "price": 29.99,
+    "metadata": {
+      "size": 300,
+      "category": "Books",
+      "author": "Chef Lisa"
+    }
+  },
+  {
+    "id": "008",
+    "image_path": "/b.jpg",
+    "title": "High-Speed Smoothie Blender",
+    "description": "Unlock the potential of whole-food nutrition with the High-Speed Smoothie Blender. Featuring an industrial-grade **1500W motor** and hardened, six-point stainless steel blades, this blender is capable of pulverizing the toughest ingredients, from frozen fruits and ice to nuts and seeds, delivering a perfectly smooth and consistent result every time. The large, **64-ounce BPA-free pitcher** is shatterproof and clearly marked for accurate measuring. It offers multiple preset programs, including Smoothie, Ice Crush, and Puree, as well as variable speed control and a pulse function for precise texture management. The advanced venting lid allows for blending hot soups safely, expanding its utility far beyond just smoothies. Its durable base is designed with suction feet to prevent movement during high-speed operation, and the components are **dishwasher-safe** for exceptionally easy cleanup. This powerful kitchen tool is a game-changer for anyone serious about healthy eating, meal prepping, or simply enjoying the best homemade blends.",
+    "price": 149.99,
+    "metadata": {
+      "size": 9500,
+      "category": "Home Goods",
+      "power": "1500W"
+    }
+  },
+  {
+    "id": "009",
+    "image_path": "/c.png",
+    "title": "Series X Smartwatch",
+    "description": "The Series X Smartwatch is the ultimate companion for health, fitness, and connectivity, seamlessly integrating into your modern lifestyle. Featuring a vibrant, **always-on AMOLED display** encased in a durable, Space Gray aluminum frame, it offers crystal-clear visibility even in direct sunlight. This device goes beyond basic step counting; it includes an advanced **ECG monitor**, **blood oxygen (SpO2) sensor**, and **precision heart rate tracking** to provide comprehensive insights into your well-being. It supports over 50 workout modes, from swimming (it is fully waterproof) to high-intensity interval training, logging every metric with high accuracy. Stay connected with instant **smartphone notifications**, contactless payment capabilities, and a built-in GPS for untethered run tracking. With a remarkable **7-day battery life** and fast charging, the Series X is designed to keep up with your busiest week without constant recharging. Customize your look with thousands of available watch faces and interchangeable straps.",
+    "price": 199.00,
+    "metadata": {
+      "size": 50,
+      "category": "Electronics",
+      "color": "Space Gray"
+    }
+  },
+  {
+    "id": "010",
+    "image_path": "/a.jpg",
+    "title": "Classic Denim Jacket",
+    "description": "The Classic Denim Jacket is a timeless piece that embodies effortless cool and rugged durability, making it an essential layer for any season. Crafted from **premium, medium-wash, 100% cotton denim**, it offers a substantial feel that softens beautifully over time, conforming uniquely to the wearer. This **unisex Trucker style** features a perfect, slightly cropped silhouette that looks fantastic over hoodies, tees, or button-down shirts. Details include dual breast pockets with button-flap closures, side slit pockets for warming your hands, and adjustable button tabs at the waist for a customized fit. The jacket is finished with durable, antique copper hardware and contrast stitching that highlights its classic design. Designed to last for years, this denim jacket will quickly become your go-to outerwear, developing a unique, lived-in character that reflects your personal journey. It’s an investment in enduring style that never fades away, suitable for casual Fridays, concerts, or weekend adventures.",
+    "price": 65.00,
+    "metadata": {
+      "size": "M",
+      "category": "Apparel",
+      "style": "Trucker"
+    }
+  },
+  {
+    "id": "011",
+    "image_path": "/e.png",
+    "title": "Stars Beyond (Paperback)",
+    "description": "Embark on an interstellar journey with *Stars Beyond*, a breathtaking science fiction saga that explores the limits of human ambition and the mysteries of the cosmos. In this epic **paperback edition** by acclaimed author Elias Vance, humanity stands on the brink of colonizing a new galaxy, but a hidden, ancient intelligence threatens to unravel their efforts. The narrative centers on Captain Elara Voss, who must lead a desperate first-contact mission deep into uncharted space, facing environmental hazards and psychological challenges that test the very definition of survival. Vance's world-building is meticulous, creating **vivid alien cultures** and **plausible future technologies**. The novel is a philosophical meditation on themes of exploration, artificial intelligence, and what it truly means to be sentient. With its brisk pacing, profound concepts, and richly developed characters, *Stars Beyond* is destined to be a cornerstone of modern science fiction, offering a thrilling escape to a universe both familiar and wonderfully strange. Don't miss this interstellar adventure.",
+    "price": 12.50,
+    "metadata": {
+      "size": 680,
+      "category": "Books",
+      "author": "Elias Vance"
+    }
+  },
+  {
+    "id": "012",
+    "image_path": "/g.jpg",
+    "title": "Luxury Sateen Sheet Set (Queen)",
+    "description": "Transform your bedroom into a five-star retreat with our Luxury Sateen Sheet Set. This **Queen-sized set** includes one fitted sheet, one flat sheet, and two standard pillowcases, all woven from long-staple cotton to achieve an incredibly smooth and opulent sateen finish. The high **600 thread count** provides a distinct, heavy drape and a gorgeous subtle sheen that rivals the finest hotel linens. The sateen weave is naturally wrinkle-resistant and boasts exceptional breathability, helping to regulate your body temperature throughout the night for optimal sleep. The fitted sheet features **deep pockets (up to 18 inches)** and durable all-around elastic to ensure a snug, secure fit on thick mattresses. These sheets are OEKO-TEX certified, meaning they are tested and free from harmful substances, giving you peace of mind. Indulge in the silky-soft feel and durable luxury of this sheet set, an essential upgrade for anyone seeking the perfect blend of comfort, style, and quality for their nightly rest.",
+    "price": 79.99,
+    "metadata": {
+      "size": 3000,
+      "category": "Home Goods",
+      "thread_count": 600
+    }
+  },
+  {
+    "id": "013",
+    "image_path": "/f.png",
+    "title": "Acoustic Noise-Cancelling Headphones",
+    "description": "Escape the everyday clamor with the Acoustic Noise-Cancelling Headphones, designed to deliver an immersive, pure audio experience. Featuring **industry-leading active noise cancellation (ANC)** technology, these headphones effectively eliminate distracting ambient sounds, making them essential for air travel, noisy commutes, or focused work in open-plan offices. The audio quality is characterized by **rich, deep bass, crisp highs, and natural mid-tones**, powered by custom-engineered drivers. Comfort is paramount: the over-ear cups are fitted with plush, memory foam cushions and wrapped in high-grade protein leather, ensuring a secure and comfortable fit for hours of listening. The headphones offer a remarkable **30 hours of continuous playtime** on a single charge and include a quick-charge function that provides hours of power in minutes. They also feature an intuitive touch interface for volume and track control, and a high-quality microphone for crystal-clear hands-free calls. Foldable and lightweight, they come with a compact carrying case for easy portability.",
+    "price": 249.00,
+    "metadata": {
+      "size": 350,
+      "category": "Electronics",
+      "battery_life": "30h"
+    }
+  },
+  {
+    "id": "014",
+    "image_path": "/c.png",
+    "title": "Merino Wool Scarf",
+    "description": "Wrap yourself in the luxurious warmth and softness of the Merino Wool Scarf. Made from **100% extra-fine Merino wool**, this scarf offers superior insulation without the bulk, making it incredibly lightweight and comfortable to wear. Merino wool is naturally breathable, moisture-wicking, and temperature-regulating, meaning it keeps you perfectly warm in the cold but prevents overheating when you step indoors. The yarn is non-irritating, providing a delicate, itch-free feel against the skin. Designed in a timeless, solid color and generous dimensions, this scarf can be styled in multiple ways—draped loosely, looped once, or tied snugly—to complement any coat or jacket. It features a finely woven texture and finished edges for a refined look. An essential winter accessory, this scarf combines everyday functionality with classic elegance, serving as a perfect gift or a sophisticated addition to your cold-weather wardrobe. It's the ultimate combination of practical warmth and enduring style, ensuring you stay cozy and chic.",
+    "price": 45.99,
+    "metadata": {
+      "size": "One Size",
+      "category": "Apparel",
+      "pattern": "Solid"
+    }
+  },
+  {
+    "id": "015",
+    "image_path": "/d.png",
+    "title": "The Little Bear's Adventure",
+    "description": "Delight your young reader with *The Little Bear's Adventure*, a heartwarming and educational children's book tailored for ages **3 to 6**. This beautifully crafted book tells the tale of Barnaby, a curious little bear who wanders outside his forest home for the first time, encountering friendly creatures and learning valuable lessons about courage, friendship, and the beauty of nature. The story is told through **simple, rhythmic language** that is perfect for early reading and read-aloud sessions. What truly sets this book apart are the stunning, **full-page watercolor illustrations** that bring the enchanted forest and its characters vividly to life, captivating the attention of even the most restless child. The book is printed on **durable, child-safe board pages** to withstand the rigors of enthusiastic handling. It's an excellent resource for parents and educators looking to promote early literacy skills, emotional development, and a love for the natural world. A wonderful bedtime story that promises sweet dreams.",
+    "price": 9.99,
+    "metadata": {
+      "size": 48,
+      "category": "Books",
+      "author": "Mia Green"
+    }
+  },
+  {
+    "id": "016",
+    "image_path": "/a.jpg",
+    "title": "Adjustable LED Desk Lamp",
+    "description": "Optimize your workspace lighting with the Adjustable LED Desk Lamp, a sleek and functional addition to any home office, study, or bedside table. This lamp features advanced **flicker-free LED technology** that significantly reduces eye strain and fatigue, even during prolonged periods of reading or screen work. It offers three distinct **color temperature modes (Warm, Natural, and Cool)** and five levels of brightness, allowing you to customize the lighting to perfectly match your task and environment. The highly flexible, multi-jointed arm and rotating head provide exceptional adjustability, letting you direct the light exactly where you need it. The base includes a convenient **USB charging port** for your smartphone or tablet, reducing desktop clutter. Constructed from high-grade aluminum, the lamp is both lightweight and incredibly stable. Its minimalist, modern aesthetic complements any decor, and the energy-efficient LED bulbs are designed to last for over 50,000 hours, offering a cost-effective and superior lighting solution for years to come.",
+    "price": 49.95,
+    "metadata": {
+      "size": 1200,
+      "category": "Home Goods",
+      "light_type": "LED"
+    }
+  },
+  {
+    "id": "017",
+    "image_path": "/b.jpg",
+    "title": "Rugged Portable Bluetooth Speaker",
+    "description": "Take the party anywhere with the Rugged Portable Bluetooth Speaker, engineered to deliver powerful sound in the most demanding environments. This speaker boasts an **IPX7 waterproof rating**, meaning it can be fully submerged in water, making it perfect for pool parties, beach trips, or even shower singalongs. The exterior is wrapped in a durable, reinforced rubber casing that makes it **shock-resistant** and capable of handling drops and rough treatment. Inside, dual passive radiators and a high-efficiency driver deliver surprisingly rich, loud, 360-degree sound with deep bass for its compact size. Connectivity is quick and stable via the latest **Bluetooth 5.0 technology**, and the device can seamlessly pair with two sources simultaneously. The built-in rechargeable battery provides an impressive **12 hours of continuous playtime**. It also features an integrated microphone for speakerphone functionality and a carabiner clip for easy attachment to backpacks. This speaker is the ultimate companion for adventurers and music lovers who need durable, high-quality audio on the go.",
+    "price": 59.99,
+    "metadata": {
+      "size": 750,
+      "category": "Electronics",
+      "feature": "Waterproof"
+    }
+  },
+  {
+    "id": "018",
+    "image_path": "/h.png",
+    "title": "Bamboo Dress Socks (3-Pack)",
+    "description": "Upgrade your sock drawer with the Bamboo Dress Socks 3-Pack, the perfect combination of sophisticated style and luxurious comfort. Crafted from a blend that is primarily **viscose derived from sustainable bamboo fiber**, these socks are naturally **hypoallergenic and supremely soft**, offering a smooth, non-irritating feel that rivals silk. Bamboo is known for its excellent **moisture-wicking and thermal-regulating properties**, keeping your feet cool in the summer and warm in the winter while resisting odors. The socks are designed with a reinforced heel and toe for maximum durability and feature a non-binding cuff that stays up without constricting circulation. This pack includes three pairs in versatile solid colors, making them suitable for business wear, formal events, or smart casual outfits. The fine gauge knit provides a sleek, professional appearance that fits perfectly inside dress shoes or boots. Experience the difference that natural, high-performance fibers make in your daily comfort.",
+    "price": 15.00,
+    "metadata": {
+      "size": "9-12",
+      "category": "Apparel",
+      "material": "Bamboo"
+    }
+  },
+  {
+    "id": "019",
+    "image_path": "/f.png",
+    "title": "World History: Ancient Civilizations (Textbook)",
+    "description": "Delve into the foundational epochs of human history with *World History: Ancient Civilizations*, a comprehensive and engaging textbook designed for university-level survey courses. This meticulously researched volume provides an in-depth exploration of global history from the Paleolithic era through the decline of the Roman Empire, focusing on the development of early societies in Mesopotamia, Egypt, the Indus Valley, China, Greece, and Rome. The text is enriched with **detailed maps, primary source excerpts, and full-color artifacts and photographs** to bring historical periods to life. Each chapter includes a chronological narrative, key term definitions, and thought-provoking analysis questions to encourage critical thinking. The digital companion resource offers interactive timelines, video lectures, and self-assessment quizzes, making it an invaluable tool for both students and educators. Authored by leading historians, this book is recognized for its balanced perspective and its emphasis on interconnectedness between early global cultures. It is the definitive text for understanding the roots of modern civilization.",
+    "price": 85.00,
+    "metadata": {
+      "size": 1200,
+      "category": "Books",
+      "subject": "History"
+    }
+  },
+  {
+    "id": "020",
+    "image_path": "/c.png",
+    "title": "Stackable Clear Storage Bins (Set of 4)",
+    "description": "Bring order to chaos with the Stackable Clear Storage Bins, a versatile set of four containers essential for organizing any space in your home, garage, or office. Constructed from **heavy-duty, transparent, BPA-free plastic**, these bins are durable enough to handle everything from holiday decorations and tools to clothing and pantry supplies, while the clear walls allow for effortless content identification without having to open the lid. The containers feature a **secure, snap-on lid** and a specially designed lip that allows them to be **firmly stacked** on top of one another, maximizing vertical storage space and preventing toppling. The integrated comfort-grip handles make carrying and transporting the bins easy, even when fully loaded. With a generous capacity per bin, this set provides a practical and long-lasting solution for decluttering large areas. Their robust design ensures they will maintain their shape and utility for years, making them a wise investment in home organization and efficiency.",
+    "price": 39.99,
+    "metadata": {
+      "size": 15000,
+      "category": "Home Goods",
+      "material": "Plastic"
+    }
+  }
+]

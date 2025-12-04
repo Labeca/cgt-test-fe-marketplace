@@ -2,8 +2,9 @@
   // Visit https://aka.ms/tsconfig to read more about this file
   "compilerOptions": {
     // File Layout
-    // "rootDir": "./src",
-    // "outDir": "./dist",
+    "rootDir": ".",
+    "outDir": "./dist",
+    "baseUrl": ".",
 
     // Environment Settings
     // See also https://aka.ms/tsconfig/module
@@ -27,17 +28,20 @@
 
     "strict": true,
     "jsx": "react-jsx",
-    "verbatimModuleSyntax": true,
+    "verbatimModuleSyntax": false,
     "isolatedModules": true,
     "noUncheckedSideEffectImports": true,
     "moduleDetection": "force",
     "skipLibCheck": true,
     "paths": {
-      "@assets/*": [
-        "./src/common/assets/*"
+      "@project_types/*": [
+        "./src/common/types/*"
       ],
       "@hooks/*": [
         "./src/common/hooks/*"
+      ],
+      "@mocks/*": [
+        "./src/common/mocks/*"
       ],
       "@components/*": [
         "./src/components/*"
