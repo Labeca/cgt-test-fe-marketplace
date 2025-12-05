@@ -7,9 +7,11 @@ import Button from "@components/Button";
 import Price from "@components/Price";
 import Image from "@components/ImageContainer"
 
-const Home:FC = () => {
+const ProductContainer:FC = () => {
     const [product, setProduct] = useState<Product>();
     const { id } = useParams()
+
+    console.log('Product ID:', id);
 
     const { addItem } = useCart();
     
@@ -27,11 +29,11 @@ const Home:FC = () => {
     }, [])
 
     if (!product) {
-        return <div>Loading...</div>;
+        return <div data-testid="product-container-loader">Loading...</div>;
     }
 
     return (
-        <section className={page_wrapper}>
+        <section className={page_wrapper} data-testid="product-container">
             <div className={page_header}>
                 <Image src={product.image_path} alt={product.title} size="lg"/>
                 <div className={data_container_style}>
@@ -56,4 +58,4 @@ const Home:FC = () => {
     );
 }
 
-export default Home;
+export default ProductContainer;

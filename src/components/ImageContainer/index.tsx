@@ -19,7 +19,7 @@ const Image:FC<ImageProps> = ({ src, alt, size = 'sm' }) => {
         lg: image_style_lg  
     }
     return (
-        <div className={`${image_container_style} ${container_size}`}>
+        <div className={`${image_container_style} ${container_size[size]}`} data-testid="image-container-component">
             <img src={src} alt={alt} className={image_size[size]} />
         </div>
     )

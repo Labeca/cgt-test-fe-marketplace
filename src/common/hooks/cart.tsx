@@ -16,10 +16,11 @@ const CartContext = createContext({
 
 export interface CartProviderProps {
     children?: React.ReactNode;
+    data?: Map<string, CartItem>;
 }
 
-const CartProvider = ({children}: CartProviderProps) => {
-    const [items, setItems] = useState<Map<string, CartItem>>(new Map<string, CartItem>());
+const CartProvider = ({children, data = new Map<string, CartItem>() }: CartProviderProps) => {
+    const [items, setItems] = useState<Map<string, CartItem>>(data);
 
     useEffect(() => {
         const storedCart = localStorage.getItem("cart");

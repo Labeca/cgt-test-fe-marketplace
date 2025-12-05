@@ -9,7 +9,7 @@ export interface ButtonProps {
 const Button:FC<ButtonProps> = ({ text, onClick }) => {
 
     return (
-        <button className={button_style} onClick={onClick}>{text}</button>
+        <button className={button_style} onClick={onClick} data-testid="button-component" aria-label={text}>{text}</button>
     )
 }
 

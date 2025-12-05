@@ -14,7 +14,7 @@ export interface ProductItemProps {
 const ProductItem: FC<ProductItemProps> = ({ product, quantity }) => {
     const { addItem, decreaseItem, removeItem } = useCart();
     return (
-        <li className={wrapper_style}>
+        <li className={wrapper_style} data-testid="product-item-component">
             <div className={image_container_style}>
                 <Image src={product.image_path} alt={product.title} size="sm"/>
             </div>

@@ -8,16 +8,15 @@ export interface PriceProps {
 
 const Price:FC<PriceProps> = ({ value, size = 'sm' }) => {
 
-    const fontSize = {
+    const font_size = {
         sm: size_sm,
         md: size_md,
         lg: size_lg
     }
+    const dollar_value = value.toLocaleString('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 2})
 
-    return <p className={`${price_style} ${fontSize[size]}`}>
-        {
-            value.toLocaleString('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 2})
-        }
+    return <p className={`${price_style} ${font_size[size]}`} data-testid="price-component" aria-label={dollar_value}>
+        {dollar_value}
     </p>
 }
 

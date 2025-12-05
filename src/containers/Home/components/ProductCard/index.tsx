@@ -15,10 +15,10 @@ const ProductCard:FC<ProductCardProps> = ({ product }) => {
     const { addItem } = useCart();
 
     return (
-        <div className={card_wrapper_style}>
+        <div className={card_wrapper_style} data-testid="product-card-component">
             <div className={card_container_style}>
                 <NavLink to={`/product/${product.id}`}>
-                <Image src={product.image_path} alt={product.title} size="md"/>
+                    <Image src={product.image_path} alt={product.title} size="md"/>
                 </NavLink>
                 <h3 className={title_style}>
                     <NavLink to={`/product/${product.id}`} className={title_link_style}>{product.title}</NavLink>

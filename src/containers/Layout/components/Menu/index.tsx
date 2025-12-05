@@ -7,7 +7,7 @@ const Menu = () => {
     const { items } = useCart();
 
     return (
-        <header className={wrapper}>
+        <header className={wrapper} data-testid="menu-component">
             <section className={container}>
                 <span className={logo}>90s shop</span>
                 <nav className={menu}>
@@ -19,7 +19,7 @@ const Menu = () => {
                     <NavLink to="/cart"
                         className={({ isActive }) => isActive ? `${menu_item_active} ${shopping_cart_style}` : `${menu_item} ${shopping_cart_style}`}
                     >
-                        <ShoppingCartOutlined />
+                        <ShoppingCartOutlined aria-label="Ecommercr cart"/>
                         {items.size > 0  && (<span className={menu_item_counter}> {items.size} </span>)}
                     </NavLink>
                 </nav>

@@ -4,7 +4,7 @@ import { useCart } from "@hooks/cart";
 import ProductItem from "./components/ProductItem";
 import Price from "@components/Price";
 
-const Home:FC = () => {
+const CartContainer:FC = () => {
 
     const { items } = useCart();
 
@@ -25,7 +25,7 @@ const Home:FC = () => {
     }, [items])
 
     return (
-        <section className={page_wrapper}>
+        <section className={page_wrapper} data-testid="cart-container">
             <h1>
                 Your shopping cart
             </h1>
@@ -40,4 +40,4 @@ const Home:FC = () => {
     );
 }
 
-export default Home;
+export default CartContainer;

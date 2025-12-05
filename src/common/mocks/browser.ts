@@ -1,10 +1,8 @@
 import { setupWorker } from 'msw/browser'
 import { handlers } from './handlers.js'
 
+export const worker = setupWorker(...handlers)
 
 export async function initializeMocking() {
-
-    const worker = setupWorker(...handlers)
-   
     return await worker.start()
 }
