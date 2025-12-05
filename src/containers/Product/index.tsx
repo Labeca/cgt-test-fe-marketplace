@@ -11,8 +11,6 @@ const ProductContainer:FC = () => {
     const [product, setProduct] = useState<Product>();
     const { id } = useParams()
 
-    console.log('Product ID:', id);
-
     const { addItem } = useCart();
     
     const fetchProduct = useCallback (async () => {

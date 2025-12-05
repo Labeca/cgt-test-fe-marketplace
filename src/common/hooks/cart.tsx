@@ -26,7 +26,6 @@ const CartProvider = ({children, data = new Map<string, CartItem>() }: CartProvi
         const storedCart = localStorage.getItem("cart");
         if (storedCart !== null) {
             setItems(new Map(JSON.parse(storedCart)))
-            console.log(new Map(JSON.parse(storedCart)))
         }
     },[])
 
